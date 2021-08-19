@@ -1,0 +1,16 @@
+TRABAI 4:
+  Usar código disponibilizado como base (Classe Lista encadeada).
+  Adicionar Metodo Recursivo (nomeqnãoentendi) que recebe um Node
+  Adicionar outro medoto (otonomeqnãoentendi) que chama a função anterior passando o root como argumento
+  essas funções revertem a lista de forma recursiva
+  Não pode usar laços de repetição ou vetores/matrizes auxiliares ;-;
+  
+ 0, 1, 2
+ 
+ 3, 4, 5
+ 
+ 5, 8, 11, 14
+ 
+ next = proximo
+ key = valor
+  p->inicio = this->ptraiz
